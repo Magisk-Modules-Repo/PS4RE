@@ -1,5 +1,8 @@
 # PS4 Remote Play Enabler
-A Magisk module enables install and use PS4 Remote Play from PlayStore for non-Sony devices.
+A Magisk module enables install and use PS4 Remote Play from PlayStore for non-Sony devices. 
+
+# Note
+If dont appear avalible for install please clear data in PlayStore App and is necessary add PS4 Remote app to Magisk Hide.
 
 # Changelog
 
